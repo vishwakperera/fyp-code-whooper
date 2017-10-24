@@ -1,5 +1,3 @@
-# by Vishwa K Perera
-
 ## Introduction
 ```markdown
 This is the git reporsitatry for documentation of my research
