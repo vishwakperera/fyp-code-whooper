@@ -1,4 +1,4 @@
-# User experience enhancement in SCRUM using Gamification
+# by Vishwa K Perera
 
 ## Introduction
 ```markdown
