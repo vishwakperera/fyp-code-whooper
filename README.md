@@ -2,7 +2,8 @@
 
 ## Introduction
 ```markdown
-This is the git reporsitatry for documentation of my research project which I'm currently working on
+This is the git reporsitatry for documentation of my research
+project which I'm currently working on
 
 ```
 ## How to Contribute
