@@ -1,4 +1,4 @@
-## User Experience Enhancement in SCRUM using Gamification
+## User Experience Enhancement in Scrum using Gamification
 
 ### Introduction
 ```markdown
